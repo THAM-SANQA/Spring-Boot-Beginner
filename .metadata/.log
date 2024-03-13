@@ -382,3 +382,60 @@ java.lang.NullPointerException
 	at org.springsource.ide.eclipse.commons.livexp.core.LiveVariable.setValue(LiveVariable.java:46)
 	at org.springframework.ide.eclipse.boot.dash.util.AbstractPollingAppReadyStateMonitor$1.run(AbstractPollingAppReadyStateMonitor.java:51)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-13 11:32:30.025
+!MESSAGE Classpath changed for project: taco-cloud-jdbctemplate
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-13 11:32:30.026
+!MESSAGE Boot project REMOVED: taco-cloud-jdbctemplate
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-13 11:32:30.027
+!MESSAGE Classpath changed for project: taco-cloud-sd-jdbc
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-13 11:32:30.085
+!MESSAGE Boot project REMOVED: taco-cloud-sd-jdbc
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-13 11:32:30.086
+!MESSAGE Classpath changed for project: taco-cloud-sd-jpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-13 11:32:30.087
+!MESSAGE Boot project REMOVED: taco-cloud-sd-jpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-13 11:32:53.367
+!MESSAGE Classpath changed for project: taco-cloud-sfc
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-13 11:32:53.369
+!MESSAGE Boot project ADDED: taco-cloud-sfc
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-13 11:32:55.046
+!MESSAGE Classpath changed for project: taco-cloud-sfc
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-13 11:32:55.047
+!MESSAGE Classpath changed for project: taco-cloud
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-13 11:32:55.048
+!MESSAGE Boot project ADDED: taco-cloud
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-13 11:32:59.037
+!MESSAGE Classpath changed for project: taco-cloud
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-13 11:32:59.757
+!MESSAGE Classpath changed for project: taco-cloud
+
+!ENTRY org.springframework.ide.eclipse.boot.dash 4 0 2024-03-13 11:33:28.464
+!MESSAGE Failed to connect to Boot app
+!STACK 0
+java.lang.NullPointerException
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:732)
+	at java.base/java.util.concurrent.CompletableFuture.thenAccept(CompletableFuture.java:2182)
+	at org.springframework.ide.eclipse.boot.dash.liveprocess.DefaultLiveProcessCommandExecutor.executeCommand(DefaultLiveProcessCommandExecutor.java:60)
+	at org.springframework.ide.eclipse.boot.dash.BootDashActivator$1.stateChanged(BootDashActivator.java:219)
+	at org.springframework.ide.eclipse.boot.dash.BootDashActivator$1.stateChanged(BootDashActivator.java:1)
+	at org.springframework.ide.eclipse.boot.dash.util.RunStateTracker.updateOwnerStatesAndFireEvents(RunStateTracker.java:216)
+	at org.springframework.ide.eclipse.boot.dash.util.RunStateTracker$1.gotValue(RunStateTracker.java:151)
+	at org.springframework.ide.eclipse.boot.dash.util.RunStateTracker$1.gotValue(RunStateTracker.java:1)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveExpression.changed(LiveExpression.java:137)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveExpression.refresh(LiveExpression.java:81)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveVariable.setValue(LiveVariable.java:46)
+	at org.springframework.ide.eclipse.boot.dash.util.AbstractPollingAppReadyStateMonitor$1.run(AbstractPollingAppReadyStateMonitor.java:51)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
