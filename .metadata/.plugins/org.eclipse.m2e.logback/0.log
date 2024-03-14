@@ -129,3 +129,168 @@
 2024-03-13 11:33:03,394 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-03-13 11:33:03,394 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2024-03-13 11:33:03,394 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-13 13:19:12,076 [Worker-62: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud:0.0.6-SNAPSHOT @ C:\Users\user1\Documents\CodeCollegeZA\BootCamp_2023\Spring\classwork\springToolsWorkspace\chapter06\taco-cloud\pom.xml.
+2024-03-13 13:19:18,584 [Worker-62: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud/src/main/java
+2024-03-13 13:19:18,584 [Worker-62: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud/src/main/resources
+2024-03-13 13:19:18,601 [Worker-62: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud/src/main/resources
+2024-03-13 13:19:18,613 [Worker-62: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud/src/test/java
+2024-03-13 13:19:18,614 [Worker-62: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud/src/test/resources
+2024-03-13 13:19:22,637 [Worker-62: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2024-03-13 13:19:32,179 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 13:19:32,179 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-13 13:19:32,180 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-13 13:19:32,223 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2024-03-13 13:19:32,453 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 13:19:32,453 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-13 13:19:32,453 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\user1\Documents\CodeCollegeZA\BootCamp_2023\Spring\classwork\springToolsWorkspace\chapter06\taco-cloud\src\test\resources
+2024-03-13 13:53:44,349 [Worker-64: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud:0.0.5-SNAPSHOT @ C:\Users\user1\Documents\CodeCollegeZA\BootCamp_2023\Spring\classwork\springToolsWorkspace\chapter05\taco-cloud\pom.xml.
+2024-03-13 13:53:48,423 [Worker-64: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sfc:0.0.5-SNAPSHOT @ C:\Users\user1\Documents\CodeCollegeZA\BootCamp_2023\Spring\classwork\springToolsWorkspace\chapter05\taco-cloud-sfc\pom.xml.
+2024-03-13 13:53:51,286 [Worker-64: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud-sfc/src/main/java
+2024-03-13 13:53:51,286 [Worker-64: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sfc/src/main/resources
+2024-03-13 13:53:51,287 [Worker-64: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sfc/src/main/resources
+2024-03-13 13:53:51,288 [Worker-64: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud-sfc/src/test/java
+2024-03-13 13:53:51,288 [Worker-64: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sfc/src/test/resources
+2024-03-13 13:53:52,850 [Worker-64: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud/src/main/java
+2024-03-13 13:53:52,851 [Worker-64: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud/src/main/resources
+2024-03-13 13:53:52,851 [Worker-64: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud/src/main/resources
+2024-03-13 13:53:52,852 [Worker-64: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud/src/test/java
+2024-03-13 13:53:52,852 [Worker-64: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud/src/test/resources
+2024-03-13 13:53:54,209 [Worker-64: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 13 sec
+2024-03-13 13:53:54,624 [Worker-67: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-03-13 13:53:56,140 [Worker-67: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud:0.0.5-SNAPSHOT @ C:\Users\user1\Documents\CodeCollegeZA\BootCamp_2023\Spring\classwork\springToolsWorkspace\chapter05\taco-cloud\pom.xml.
+2024-03-13 13:53:59,553 [Worker-67: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sfc:0.0.5-SNAPSHOT @ C:\Users\user1\Documents\CodeCollegeZA\BootCamp_2023\Spring\classwork\springToolsWorkspace\chapter05\taco-cloud-sfc\pom.xml.
+2024-03-13 13:54:02,280 [Worker-67: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud/src/main/java
+2024-03-13 13:54:02,280 [Worker-67: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud/src/main/resources
+2024-03-13 13:54:02,281 [Worker-67: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud/src/main/resources
+2024-03-13 13:54:02,282 [Worker-67: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud/src/test/java
+2024-03-13 13:54:02,282 [Worker-67: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud/src/test/resources
+2024-03-13 13:54:05,433 [Worker-67: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud-sfc/src/main/java
+2024-03-13 13:54:05,433 [Worker-67: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sfc/src/main/resources
+2024-03-13 13:54:05,434 [Worker-67: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sfc/src/main/resources
+2024-03-13 13:54:05,435 [Worker-67: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud-sfc/src/test/java
+2024-03-13 13:54:05,436 [Worker-67: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sfc/src/test/resources
+2024-03-13 13:54:07,124 [Worker-67: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 2 poms: local refresh takes 0,00 sec, refresh facades takes 7,00 sec, update config takes 4,00 sec 
+2024-03-13 13:54:10,959 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 13:54:10,960 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-13 13:54:10,960 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-13 13:54:10,982 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2024-03-13 13:54:11,097 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 13:54:11,097 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-13 13:54:11,097 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-13 13:54:13,241 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 13:54:13,241 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-13 13:54:13,242 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-13 13:54:13,268 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2024-03-13 13:54:13,359 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 13:54:13,360 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-13 13:54:13,360 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-13 13:57:24,139 [Worker-74: Launching taco-cloud-sfc - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 13:57:24,140 [Worker-74: Launching taco-cloud-sfc - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-13 13:57:24,145 [Worker-74: Launching taco-cloud-sfc - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-13 13:57:24,150 [Worker-74: Launching taco-cloud-sfc - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-13 13:57:24,161 [Worker-74: Launching taco-cloud-sfc - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 13:57:24,162 [Worker-74: Launching taco-cloud-sfc - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-13 13:57:24,164 [Worker-74: Launching taco-cloud-sfc - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-14 10:10:02,470 [Worker-80: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sd-cassandra:0.0.4-SNAPSHOT @ C:\Users\user1\Documents\CodeCollegeZA\BootCamp_2023\Spring\classwork\springToolsWorkspace\chapter04\tacos-sd-cassandra\pom.xml.
+2024-03-14 10:10:11,890 [Worker-80: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sd-mongodb:0.0.4-SNAPSHOT @ C:\Users\user1\Documents\CodeCollegeZA\BootCamp_2023\Spring\classwork\springToolsWorkspace\chapter04\tacos-sd-mongodb\pom.xml.
+2024-03-14 10:10:16,402 [Worker-80: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud-sd-mongodb/src/main/java
+2024-03-14 10:10:16,402 [Worker-80: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sd-mongodb/src/main/resources
+2024-03-14 10:10:16,417 [Worker-80: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sd-mongodb/src/main/resources
+2024-03-14 10:10:16,561 [Worker-80: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud-sd-mongodb/src/test/java
+2024-03-14 10:10:16,562 [Worker-80: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sd-mongodb/src/test/resources
+2024-03-14 10:10:26,435 [Worker-80: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud-sd-cassandra/src/main/java
+2024-03-14 10:10:26,436 [Worker-80: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sd-cassandra/src/main/resources
+2024-03-14 10:10:26,453 [Worker-80: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sd-cassandra/src/main/resources
+2024-03-14 10:10:26,471 [Worker-80: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud-sd-cassandra/src/test/java
+2024-03-14 10:10:26,471 [Worker-80: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sd-cassandra/src/test/resources
+2024-03-14 10:10:26,957 [Worker-87: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-data-cassandra/2.5.3/spring-boot-starter-data-cassandra-2.5.3-sources.jar
+2024-03-14 10:10:28,023 [Worker-87: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-cassandra/2.5.3/spring-boot-starter-data-cassandra-2.5.3-sources.jar
+2024-03-14 10:10:28,052 [Worker-87: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-cassandra/2.5.3/spring-boot-starter-data-cassandra-2.5.3-sources.jar
+2024-03-14 10:10:28,059 [Worker-87: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-cassandra:2.5.3
+2024-03-14 10:10:28,098 [Worker-87: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/json/json/20090211/json-20090211-sources.jar
+2024-03-14 10:10:29,069 [Worker-87: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/json/json/20090211/json-20090211-sources.jar
+2024-03-14 10:10:29,074 [Worker-87: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.json:json:20090211
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.json:json:jar:sources:20090211
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:584)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:553)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:538)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-03-14 10:10:29,873 [Worker-80: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 31 sec
+2024-03-14 10:10:31,189 [Worker-86: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-03-14 10:10:31,927 [Worker-86: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sd-mongodb:0.0.4-SNAPSHOT @ C:\Users\user1\Documents\CodeCollegeZA\BootCamp_2023\Spring\classwork\springToolsWorkspace\chapter04\tacos-sd-mongodb\pom.xml.
+2024-03-14 10:10:33,558 [Worker-86: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud-sd-mongodb/src/main/java
+2024-03-14 10:10:33,559 [Worker-86: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sd-mongodb/src/main/resources
+2024-03-14 10:10:33,559 [Worker-86: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sd-mongodb/src/main/resources
+2024-03-14 10:10:33,559 [Worker-86: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud-sd-mongodb/src/test/java
+2024-03-14 10:10:33,559 [Worker-86: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sd-mongodb/src/test/resources
+2024-03-14 10:10:34,845 [Worker-86: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 2,00 sec, update config takes 0,00 sec 
+2024-03-14 10:10:34,872 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-03-14 10:10:35,386 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sd-cassandra:0.0.4-SNAPSHOT @ C:\Users\user1\Documents\CodeCollegeZA\BootCamp_2023\Spring\classwork\springToolsWorkspace\chapter04\tacos-sd-cassandra\pom.xml.
+2024-03-14 10:10:37,231 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud-sd-cassandra/src/main/java
+2024-03-14 10:10:37,231 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sd-cassandra/src/main/resources
+2024-03-14 10:10:37,232 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sd-cassandra/src/main/resources
+2024-03-14 10:10:37,232 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud-sd-cassandra/src/test/java
+2024-03-14 10:10:37,232 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sd-cassandra/src/test/resources
+2024-03-14 10:10:38,177 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 2,00 sec, update config takes 0,00 sec 
+2024-03-14 10:10:40,016 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-14 10:10:40,016 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-14 10:10:40,018 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-14 10:10:40,054 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2024-03-14 10:10:40,189 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-14 10:10:40,189 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-14 10:10:40,189 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\user1\Documents\CodeCollegeZA\BootCamp_2023\Spring\classwork\springToolsWorkspace\chapter04\tacos-sd-cassandra\src\test\resources
+2024-03-14 10:10:41,585 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-14 10:10:41,585 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-14 10:10:41,586 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-14 10:10:41,621 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2024-03-14 10:10:41,676 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-14 10:10:41,682 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-14 10:10:41,682 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\user1\Documents\CodeCollegeZA\BootCamp_2023\Spring\classwork\springToolsWorkspace\chapter04\tacos-sd-mongodb\src\test\resources
+2024-03-14 10:10:49,361 [Worker-89: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/json/json/20090211/json-20090211-javadoc.jar
+2024-03-14 10:10:49,430 [Worker-89: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/json/json/20090211/json-20090211-javadoc.jar
+2024-03-14 10:10:49,443 [Worker-89: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.json:json:20090211
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.json:json:jar:javadoc:20090211
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:584)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:553)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:538)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-03-14 10:13:12,657 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.10+7
+2024-03-14 10:13:12,738 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@21271373{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@2db7315a{STARTED}}
+2024-03-14 10:13:12,739 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-03-14 10:13:12,778 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@28f74efc{HTTP/1.1, (http/1.1)}{127.0.0.1:53088}
+2024-03-14 10:13:12,786 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@ba84921{STARTING}[12.0.3,sto=0] @87518556ms
+2024-03-14 10:14:56,601 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@ba84921{STOPPING}[12.0.3,sto=0]
+2024-03-14 10:14:56,604 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@28f74efc{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-03-14 10:15:58,644 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.10+7
+2024-03-14 10:15:58,881 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@75a6fe8c{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@55d0ddc1{STARTED}}
+2024-03-14 10:15:58,882 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-03-14 10:15:58,933 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@38d6e0eb{HTTP/1.1, (http/1.1)}{127.0.0.1:53629}
+2024-03-14 10:15:58,993 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@22e13cbb{STARTING}[12.0.3,sto=0] @61623ms
+2024-03-14 10:16:03,458 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-14 10:16:21,039 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
